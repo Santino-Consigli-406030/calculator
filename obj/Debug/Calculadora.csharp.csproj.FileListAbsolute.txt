@@ -1,0 +1,10 @@
+C:\calculadora-repo\calculator\bin\Debug\Calculadora.csharp.exe.config
+C:\calculadora-repo\calculator\bin\Debug\Calculadora.csharp.exe
+C:\calculadora-repo\calculator\bin\Debug\Calculadora.csharp.pdb
+C:\calculadora-repo\calculator\obj\Debug\Calculadora.csharp.csproj.AssemblyReference.cache
+C:\calculadora-repo\calculator\obj\Debug\Calculadora.csharp.Calculadora.resources
+C:\calculadora-repo\calculator\obj\Debug\Calculadora.csharp.Properties.Resources.resources
+C:\calculadora-repo\calculator\obj\Debug\Calculadora.csharp.csproj.GenerateResource.cache
+C:\calculadora-repo\calculator\obj\Debug\Calculadora.csharp.csproj.CoreCompileInputs.cache
+C:\calculadora-repo\calculator\obj\Debug\Calculadora.csharp.exe
+C:\calculadora-repo\calculator\obj\Debug\Calculadora.csharp.pdb
